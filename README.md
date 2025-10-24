@@ -29,11 +29,3 @@ A full-stack **E-Commerce mobile application** built with **React Native (Expo)*
 - JWT Authentication
 - dotenv for configuration
 
----
-
-## ⚙️ Setup Instructions
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
